@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "asia.fivejuly.whr.calculator",
+    "sha256_cert_fingerprints":
+    ["8A:45:D0:FB:3E:D4:23:46:1D:15:2C:5F:B7:28:79:89:35:2D:70:6D:A9:5E:C6:66:26:BE:9C:1B:DC:10:36:97"]
+  }
+}]
